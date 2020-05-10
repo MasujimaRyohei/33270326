@@ -58,6 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Visual Studio Code
+.vscode/*
+
 # Jetbrain Rider Cache
 .idea/
 Assets/Plugins/Editor/JetBrains*
